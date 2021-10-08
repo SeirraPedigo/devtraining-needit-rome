@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <sc_cat_item display_value="Needit">7ec7658e1b4f7010b7158559cc4bcbf3</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-08 16:38:41</sys_created_on>
+        <sys_id>f36971861b8f7010b7158559cc4bcb43</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Service Fulfillment Steps - Properties set.Needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>io_set_item_f36971861b8f7010b7158559cc4bcb43</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-10-08 16:47:04</sys_updated_on>
+        <variable_set display_value="Service Fulfillment Steps - Properties set">73c0764073122010ae42d31ee2f6a77a</variable_set>
+    </io_set_item>
+</record_update>
